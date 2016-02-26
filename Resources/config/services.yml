@@ -1,0 +1,4 @@
+services:
+#    muspelheim_infinite_paginator.example:
+#        class: Muspelheim\InfinitePaginatorBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
